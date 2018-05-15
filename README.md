@@ -1,2 +1,2 @@
 # go-common
-common go things.
+Common go things.
